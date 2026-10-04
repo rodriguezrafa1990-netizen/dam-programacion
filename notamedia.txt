@@ -1,0 +1,13 @@
+PROGRAMA NotaMedia
+VAR
+     DECIMAL nota1, nota2, media
+INICIO
+     ESCRIBIR “ DIME TUS DOS NOTAS “
+     LEER (nota1, nota2)
+     media <- ( nota1 + nota2) / 2
+     SI media >=5 ENTONCES
+          ESCRIBIR "HAS APROBADO"
+     SI NO
+          ESCRIBIR "HAS SUSPENDIDO"
+     FIN SI
+FIN PROGRAMA
