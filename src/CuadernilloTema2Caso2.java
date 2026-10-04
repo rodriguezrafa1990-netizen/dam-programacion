@@ -1,4 +1,4 @@
-public class CuadernilloTema2 {
+public class CuadernilloTema2Caso2 {
     public static void main(String[] args) {
         String textoFalse = "false";
         int anio = 2022;
