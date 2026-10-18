@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class EjercicioCalificaciones {
     public static void main(String[] args) {
         System.out.println("Introduce una nota: ");
+Scanner scan = new Scanner(System.in);
 
-        Scanner scan = new Scanner(System.in);
         int nota = scan.nextInt();
         if (nota < 5) {
             System.out.println("Suspenso.");
