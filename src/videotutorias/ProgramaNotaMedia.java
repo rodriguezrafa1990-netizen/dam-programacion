@@ -1,3 +1,5 @@
+package videotutorias;
+
 import java.util.Scanner;
 
 public class ProgramaNotaMedia {

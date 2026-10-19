@@ -1,5 +1,4 @@
-import java.util.Scanner;
-import java.util.Locale;
+package cuadernillo;
 
 
 public class Holamundo {

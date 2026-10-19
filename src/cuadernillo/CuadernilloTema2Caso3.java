@@ -1,3 +1,5 @@
+package cuadernillo;
+
 public class CuadernilloTema2Caso3 {
     public static void main(String[] args) {
 

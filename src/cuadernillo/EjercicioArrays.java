@@ -1,3 +1,5 @@
+package cuadernillo;
+
 public class EjercicioArrays {
     public static void main(String[] args) {
         int numeros[];

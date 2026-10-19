@@ -1,3 +1,5 @@
+package cuadernillo;
+
 public class EjercicioIfSwitchForWhile {
     public static void main(String[] args) {
         // declaramos el int

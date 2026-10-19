@@ -1,3 +1,5 @@
+package cuadernillo;
+
 public class EjercicioMultiplos3ySuma {
     public static void main(String[] args) {
         int suma = 0;

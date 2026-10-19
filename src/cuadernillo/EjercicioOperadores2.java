@@ -1,8 +1,10 @@
+package cuadernillo;
+
 import java.util.Scanner;
 
 public class EjercicioOperadores2 {
 
-//Ejercicio2 Separa la parte entera de la decimal
+//cuadernillo.Ejercicio2 Separa la parte entera de la decimal
 
     static void main(String[] args) {
 

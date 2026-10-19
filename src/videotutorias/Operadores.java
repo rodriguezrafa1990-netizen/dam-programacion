@@ -1,3 +1,5 @@
+package videotutorias;
+
 public class Operadores {
     public static void main(String[] args) {
 //Pedimos al ordenador que realice diferentes operaciones aritmeticas.
@@ -47,7 +49,7 @@ public class Operadores {
         System.out.println(f);
         //falso
         System.out.println(g);
-// Operadores de asignacion
+// videotutorias.Operadores de asignacion
         a = 10;
         // Vamos a mostrar cada valor de en cada cambio
         a += 5; // a ahora es 15
@@ -61,7 +63,7 @@ public class Operadores {
         a %= 5; // ahora es 2
         System.out.println(a);
 
-        // Operadores relacionales
+        // videotutorias.Operadores relacionales
         a = 10;
         b = 5;
 
@@ -77,7 +79,7 @@ public class Operadores {
         System.out.println(mayorIgual); // true
         boolean menorIgual = (a <= b);
         System.out.println(menorIgual); // false
-        // Operadores Logicos
+        // videotutorias.Operadores Logicos
         boolean bool1 = true;
         boolean bool2 = false;
 

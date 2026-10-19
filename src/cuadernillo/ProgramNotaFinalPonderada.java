@@ -1,3 +1,5 @@
+package cuadernillo;
+
 import java.util.Scanner;
 
 public class ProgramNotaFinalPonderada {

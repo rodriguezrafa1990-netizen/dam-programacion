@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package cuadernillo;
 
 public class Ejercicio2 {
     public static void main(String[] args) {

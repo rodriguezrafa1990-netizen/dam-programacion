@@ -1,3 +1,5 @@
+package gimnasio;
+
 import java.util.Scanner;
 
 public class SegundosaHoras {

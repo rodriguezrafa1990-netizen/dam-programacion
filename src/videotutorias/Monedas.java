@@ -1,3 +1,5 @@
+package videotutorias;
+
 import java.util.Scanner;
 import java.util.Locale;
 
@@ -9,14 +11,14 @@ public class Monedas {
 /*Dada una cantidad de euros, descompón la cantidad en monedas de 2 €, 1 €, 0.5 €, 0.2 €, 0.1 €,
 0.05 €, 0.02 € y 0.01 €.
 • Juego de prueba:
-Entrada: 13.81 € Salida: Monedas de 2 € = 6
-Monedas de 1 € = 1
-Monedas de 0.5 € = 1
-Monedas de 0.2 € = 1
-Monedas de 0.1 € = 1
-Monedas de 0.05 € = 0
-Monedas de 0.02 € = 0
-Monedas de 0.01 € = 1*/
+Entrada: 13.81 € Salida: videotutorias.Monedas de 2 € = 6
+videotutorias.Monedas de 1 € = 1
+videotutorias.Monedas de 0.5 € = 1
+videotutorias.Monedas de 0.2 € = 1
+videotutorias.Monedas de 0.1 € = 1
+videotutorias.Monedas de 0.05 € = 0
+videotutorias.Monedas de 0.02 € = 0
+videotutorias.Monedas de 0.01 € = 1*/
 
         System.out.println("Cuanto dinero tienes? ");
         Scanner scan = new Scanner(System.in);

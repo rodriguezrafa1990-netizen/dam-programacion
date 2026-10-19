@@ -1,6 +1,8 @@
+package cuadernillo;
+
 import java.util.Scanner;
 
-//Ejercicio1
+//cuadernillo.Ejercicio1
 public class EjerciciosOperadores {
     public static void main(String[] args) {
         System.out.print("Introduce 2 numeros enteros: ");
@@ -14,7 +16,7 @@ public class EjerciciosOperadores {
         System.out.println("Resto: " + resto);
         System.out.printf("Division con decimales: %.2f%n ", divisionDecimales);
 
-        //Ejercicio2
+        //cuadernillo.Ejercicio2
 
         System.out.print("Introduce un número decimal: ");
         double numero = sc.nextDouble();

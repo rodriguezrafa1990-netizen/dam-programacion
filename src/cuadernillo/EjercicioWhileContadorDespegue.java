@@ -1,3 +1,5 @@
+package cuadernillo;
+
 public class EjercicioWhileContadorDespegue {
     public static void main(String[] args) {
         int d = 10;
